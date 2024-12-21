@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MEAT-node
-- 👀 I’m interested in game and programing
+- 👋 Hi, I’m ME-AT
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning node.js
 - 📫 you can reach me in telgram with this id : @MEAtish
 - ⚡ Fun fact: I am a beginner in programming :) 
